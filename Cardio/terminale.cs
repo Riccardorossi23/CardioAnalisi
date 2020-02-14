@@ -19,7 +19,6 @@ namespace Cardio
             }
             else
             {
-
                 Console.WriteLine("il tuo battito è Tachicardico");
             }
         }
