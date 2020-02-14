@@ -10,6 +10,7 @@ namespace Cardio
             int frequenza = int.Parse(Console.ReadLine());
             if(frequenza<60)
             {
+
                 Console.WriteLine("il tuo battito è bradicardico");
             }
             else if(frequenza>60&&frequenza<100)
