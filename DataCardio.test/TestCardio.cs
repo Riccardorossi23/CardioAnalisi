@@ -89,6 +89,7 @@ namespace DataCardio.test
             double calorie = 2303.1319311663483;
             double frequenza = CardioLibrary.dataCardio.ConsumoCalorieUomo(78, 147, 35, 160);
             Assert.AreEqual(calorie, frequenza);
+
         }
    
     }

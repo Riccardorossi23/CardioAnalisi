@@ -17,6 +17,7 @@ namespace CardioLibrary
             {
                 double bpm = 220 - anni;
                 return bpm;
+
             }
         }
         public static int frequenzaCardiomax(int bpm)
