@@ -8,6 +8,7 @@ namespace DataCardio.test
         [TestMethod]
         public void TestMethod1()
         {
+
         }
     }
 }
